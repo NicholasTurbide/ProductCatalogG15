@@ -1,4 +1,3 @@
 # ProductCatalog
 Build Status
-[![Build Status](https://circleci.com/gh/SEG2105F18/ProductCatalog.png?branch=master)](https://circleci.com/gh/SEG2105F18/ProductCatalog)
-
+[![CircleCI](https://circleci.com/gh/uOttawa-SEG2505-Fall2021/ProductCatalogG15/tree/master.svg?style=svg)](https://circleci.com/gh/uOttawa-SEG2505-Fall2021/ProductCatalogG15/tree/master)
